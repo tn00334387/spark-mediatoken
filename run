@@ -1,0 +1,4 @@
+rm -r artifacts
+rm -r cache
+npx hardhat compile
+npx hardhat test
